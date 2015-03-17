@@ -5,6 +5,10 @@
   "status":"ls",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache",
+      "title":"Using the application cache"
+    }
+    {
       "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
       "title":"Sitepoint tutorial"
     },
